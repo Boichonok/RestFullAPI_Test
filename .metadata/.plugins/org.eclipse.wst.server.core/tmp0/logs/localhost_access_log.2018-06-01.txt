@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [01/Jun/2018:15:27:28 +0300] "GET /MyFirstRESTfulAPI/WEB-INF/classes/controllers/DemoRestController.java HTTP/1.1" 404 1046
+127.0.0.1 - - [01/Jun/2018:15:27:37 +0300] "GET /MyFirstRESTfulAPI/api/demo/helloworld HTTP/1.1" 404 1122
+127.0.0.1 - - [01/Jun/2018:15:27:37 +0300] "GET /MyFirstRESTfulAPI/api/demo/hello/%E7%A7%81%E3%81%AF%E5%90%8D%E5%89%8D%E3%82%92Aleksander%E3%81%A7%E3%81%99%E3%80%82 HTTP/1.1" 404 1204
+127.0.0.1 - - [01/Jun/2018:15:27:37 +0300] "GET /MyFirstRESTfulAPI/api/demo/sum/12/12 HTTP/1.1" 404 1129
+127.0.0.1 - - [01/Jun/2018:15:27:37 +0300] "GET /MyFirstRESTfulAPI/api/demo/work4 HTTP/1.1" 404 1117
+127.0.0.1 - - [01/Jun/2018:15:27:37 +0300] "GET /MyFirstRESTfulAPI/api/demo/work3 HTTP/1.1" 404 1117
+127.0.0.1 - - [01/Jun/2018:15:27:37 +0300] "GET /MyFirstRESTfulAPI/api/demo/work2 HTTP/1.1" 404 1117

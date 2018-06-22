@@ -1,0 +1,5 @@
+INDEX VERSION 1.130 OT2
+/Users/alexboicko/Documents/Eclipse_JAVA_EE_Projects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2438054612.index
+/MyFirstRESTfulAPI/src
+/Users/alexboicko/Documents/Eclipse_JAVA_EE_Projects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2914803254.index
+/SecurityRestful/src

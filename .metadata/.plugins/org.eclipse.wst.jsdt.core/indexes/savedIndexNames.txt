@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/alexboicko/Documents/Eclipse_JAVA_EE_Projects/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4086394112.index
+2396659410.index
+197807663.index
+1673458428.index
+3954806752.index
+2526058745.index
